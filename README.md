@@ -1,0 +1,3 @@
+# passdict
+
+	gen pass test .
